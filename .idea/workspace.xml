@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a466b878-10a3-456e-9b20-f90e47918001" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/list/OperacoesBasicas/CarrinhoDeCompras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/list/OperacoesBasicas/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/list/OperacoesBasicas/ListaDeTarefas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/list/OperacoesBasicas/Tarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/comparableXcomparator/OrdenacaoNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/list/Ordenacao/OrdenacaoPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/list/Ordenacao/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/list/Pesquisa/CatalogoLivros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/list/Pesquisa/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/list/Pesquisa/SomaNumeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
     "onboarding.tips.debug.path": "C:/DIO/projeto-java/Collection-Framework-API---DIO/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CarrinhoDeCompras">
+  <component name="RunManager" selected="Application.OrdenacaoNumeros">
     <configuration name="CarrinhoDeCompras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.alexandresoel.main.list.OperacoesBasicas.CarrinhoDeCompras" />
       <module name="Collection-Framework-API---DIO" />
@@ -55,12 +56,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaDeTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alexandresoel.main.list.OperacoesBasicas.ListaDeTarefas" />
+    <configuration name="CatalogoLivros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alexandresoel.main.list.Pesquisa.CatalogoLivros" />
       <module name="Collection-Framework-API---DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alexandresoel.main.list.OperacoesBasicas.*" />
+          <option name="PATTERN" value="com.alexandresoel.main.list.Pesquisa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdenacaoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alexandresoel.main.comparableXcomparator.OrdenacaoNumeros" />
+      <module name="Collection-Framework-API---DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alexandresoel.main.comparableXcomparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdenacaoPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alexandresoel.main.list.Ordenacao.OrdenacaoPessoa" />
+      <module name="Collection-Framework-API---DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alexandresoel.main.list.Ordenacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SomaNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alexandresoel.main.list.Pesquisa.SomaNumeros" />
+      <module name="Collection-Framework-API---DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alexandresoel.main.list.Pesquisa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrdenacaoNumeros" />
+        <item itemvalue="Application.OrdenacaoPessoa" />
+        <item itemvalue="Application.SomaNumeros" />
+        <item itemvalue="Application.CatalogoLivros" />
         <item itemvalue="Application.CarrinhoDeCompras" />
-        <item itemvalue="Application.ListaDeTarefas" />
       </list>
     </recent_temporary>
   </component>
