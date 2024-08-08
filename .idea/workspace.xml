@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a466b878-10a3-456e-9b20-f90e47918001" name="Changes" comment="" />
+    <list default="true" id="a466b878-10a3-456e-9b20-f90e47918001" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/comparableXcomparator/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/comparableXcomparator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/generics/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alexandresoel/main/generics/GenericsExempleList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
